@@ -21,4 +21,4 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayazadeh)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayazadeh&bg_color=black)  
