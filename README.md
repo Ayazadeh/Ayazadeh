@@ -5,9 +5,6 @@
 ### Skills: 
 	* Python
 	* Django	
-	* Flask
-	* Linux
-	* Postgresql
 	* html
 	* css
 	* Bootstrap
