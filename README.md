@@ -3,9 +3,9 @@
 ### I'm Mohammad from Iran, and I am python developer
 
 ### Skills: 
- * Python
- * Django
- * Flask
+Python
+* Django
+* Flask
  * Linux
  * Postgresql
  * html
