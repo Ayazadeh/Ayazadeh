@@ -1,11 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Mohammad from Iran.
+### I'm Mohammad from Iran, and I am python developer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayazadeh)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋, my name is Mohammad
-#### I am python developer
 
 Skills: python/django/html/css/bootstrap/linux/postgresql
 
