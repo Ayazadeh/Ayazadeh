@@ -3,7 +3,7 @@
 ### I'm Mohammad from Iran, and I am python developer
 
 ### Skills: 
-Python
+** Python
 * Django
 * Flask
  * Linux
