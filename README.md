@@ -12,6 +12,9 @@
 	* css
 	* Bootstrap
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayazadeh&layout=compact)]
+
+
 # [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ayazadeh) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/m.ayazadeh/)  
 
 
