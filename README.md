@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Mohammad from Iran, and I am Back-End Developer
+### I'm Mohammad from Iran, and I am Web Developer
 
 ### Skills: 
 	* Python
