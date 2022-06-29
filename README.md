@@ -12,6 +12,9 @@
 	* css
 	* Bootstrap
 	* js
+	* Vuejs
+	* Nuxtjs
+	* Vuetify
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayazadeh&show_icons=true&theme=tokyonight)
 
