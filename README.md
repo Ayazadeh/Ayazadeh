@@ -8,10 +8,7 @@
 	* Flask
 	* PostgreSQL
 	* MongoDB
-	* html
-	* css
 	* Bootstrap
-	* js
 	* Vuejs
 	* Nuxtjs
 	* Vuetify
