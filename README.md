@@ -3,6 +3,7 @@
 ### I'm Mohammad from Iran, and I am Web Developer
 
 ### Skills: 
+	* Python
 	* Vuejs
 	* Nuxtjs
 	* Vuetify
