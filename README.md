@@ -3,12 +3,6 @@
 ### I'm Mohammad from Iran, and I am Web Developer
 
 ### Skills: 
-	* Python
-	* Django
-	* Flask
-	* PostgreSQL
-	* MongoDB
-	* Bootstrap
 	* Vuejs
 	* Nuxtjs
 	* Vuetify
