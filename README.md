@@ -3,7 +3,8 @@
 ### I am Mohammad Ayazadeh, i am a Web Developer and i am currently learning and working with
 ![](https://img.shields.io/badge/VueJs-version%202-brightgreen) 
 ![](https://img.shields.io/badge/NuxtJS-version%202-yellowgreen) 
-![](https://img.shields.io/badge/Vuetify-version%202-blue) .
+![](https://img.shields.io/badge/Tailwind%20CSS-version_3.4.0-blue
+) .
 
 
 # Tech Stack : 
