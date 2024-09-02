@@ -1,74 +1,44 @@
-<h2 align="left">Hi 👋! My name is Mohammad and I'm a Web Developer from Iran</h2>
+## Hi, I am Mohammad Ayazadeh! 
+</br>
 
-###
+ <div align="center">
+  <a href="https://github.com/Ayazadeh">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayazadeh&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayazadeh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+ 
+ ## Skills
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="icon" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="icon" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+  
+</br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayazadeh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayazadeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+## Contact 
+<div> 
+  <a href="https://www.linkedin.com/in/mohammad-ayazadeh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/mohammad.ayz77" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: m.ayazadeh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+ 
+  ![Snake animation](https://github.com/Ayazadeh/Ayazadeh/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
-###
-
-<h3 align="left">Skills :</h3>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="35" alt="nuxtjs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="35" alt="vuetify logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="35" alt="yarn logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" alt="ubuntu logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">Contact :</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohammad-ayazadeh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=m.ayazadeh@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
 
