@@ -34,6 +34,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/Ayazadeh/Ayazadeh/blob/output/github-contribution-grid-snake.svg)
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ayazadeh/Ayazadeh/output/github-contribution-grid-snake.svg" />
  
 </div>
