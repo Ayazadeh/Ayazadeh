@@ -1,13 +1,14 @@
 ## Hi, I am Mohammad 👋
 </br>
 
- <div align="center">
-  <a href="https://github.com/Ayazadeh">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayazadeh&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayazadeh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
- 
- ## Skills
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ayazadeh&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayazadeh&theme=vue-dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+## Skills
 <div style="display: inline_block"><br>
   
   <img align="center" alt="icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
