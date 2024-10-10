@@ -34,7 +34,6 @@
   
 </br>
 
-
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/mohammad-ayazadeh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -46,4 +45,6 @@
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ayazadeh/Ayazadeh/output/github-contribution-grid-snake-dark.svg" />
 
+</br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayazadeh&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
