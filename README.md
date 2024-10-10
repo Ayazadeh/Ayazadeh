@@ -1,4 +1,4 @@
-## Hi, I am Mohammad 👋
+## Hi, I am Mohammad <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -9,8 +9,7 @@
 </a>
 
 ## Skills
-<div style="display: inline_block"><br>
-  
+<div style="display: inline_block">
   <img align="center" alt="icon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="icon" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
@@ -36,9 +35,10 @@
 <div> 
   <a href="https://www.linkedin.com/in/mohammad-ayazadeh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: m.ayazadeh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
+</div>  
+
 </br>
- 
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ayazadeh/Ayazadeh/output/github-contribution-grid-snake-dark.svg" />
- 
-</div>
+</br>
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ayazadeh/Ayazadeh/output/github-contribution-grid-snake-dark.svg" />
+
