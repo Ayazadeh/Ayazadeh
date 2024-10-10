@@ -10,9 +10,6 @@
 </a>
 
 </br>
-</br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayazadeh&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Skills
 <div style="display: inline_block">
@@ -46,6 +43,8 @@
 
 </br>
 </br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayazadeh&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ayazadeh/Ayazadeh/output/github-contribution-grid-snake-dark.svg" />
 
