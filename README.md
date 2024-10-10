@@ -1,4 +1,5 @@
 ## Hi, I am Mohammad <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -7,6 +8,11 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayazadeh&theme=vue-dark&layout=compact&langs_count=8&card_width=300&exclude_repo=ClassTraining" />
 </a>
+
+</br>
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayazadeh&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Skills
 <div style="display: inline_block">
@@ -31,6 +37,7 @@
   
 </br>
 
+
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/mohammad-ayazadeh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -41,4 +48,5 @@
 </br>
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ayazadeh/Ayazadeh/output/github-contribution-grid-snake-dark.svg" />
+
 
